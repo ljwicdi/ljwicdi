@@ -4,11 +4,11 @@
 
 ---
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=ljwicdi)](https://github.com/ljwicdi)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=ljwicdi&theme=radical)](https://github.com/ljwicdi)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljwicdi)](https://github.com/ljwicdi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljwicdi&theme=radical)](https://github.com/ljwicdi/github-readme-stats)
 
 ---
 
